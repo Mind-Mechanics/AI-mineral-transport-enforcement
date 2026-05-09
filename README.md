@@ -1,9 +1,9 @@
 # AI-mineral-transport-enforcement
 
-## 🎯 The Problem
+## The Problem
 In Kerala ( A state In India ) Sheer volume of transport assets passes through the Borders of the State. The Officers cannot manually check each one of them, and the illegal vehicles can also use unautherised bypass routes 
 
-## ⚙️ The Prototype Automation Chain
+## The Prototype Automation Chain
 This prototype demonstrates a localized hardware-to-software automation loop designed to eliminate manual intervention:
 
 1. A Mineral loaded vehicle approaches the automated checkpoint
