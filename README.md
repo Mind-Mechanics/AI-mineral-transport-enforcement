@@ -16,7 +16,7 @@ This prototype demonstrates a localized hardware-to-software automation loop des
 1. AI powered components - Ai powered Surviellance camera at checkpoints tracks Load, Numebrplate verification ,and captures the evidence of the                                 transport  
 2. Active UHF RFID tags with encrypted identity, tamper alerts and Long range scanning
 3. Data aggregators connecting RFID , AI powered cameras and Sensors to backend via LTE/5G
-4. High end sensor modules Lidar ( which is used to analyse load height), weigh in motion module (used to analyse Load weight)
+4. High end sensor modules Lidar ( used to estimate vehicle load height), weigh in motion module (used to analyse Load weight)
 5. Cloud Backend - Secure server cluster with real time data streaming using MQTT protocol, REST API layer, and encrypted storage 
 
 **TECHNOLOGY USED**
