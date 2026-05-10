@@ -18,9 +18,18 @@ This prototype demonstrates a localized hardware-to-software automation loop des
 3. Data aggregators connecting RFID , AI powered cameras and Sensors to backend via LTE/5G
 4. High end sensor modules Lidar ( used to estimate vehicle load height), weigh in motion module (used to analyse Load weight)
 5. Cloud Backend - Secure server cluster with real time data streaming using MQTT protocol, REST API layer, and encrypted storage 
+6. District level Web based Enforcement Dashboard access for transport and Tax ofiicers with predictive analytics, route deviation logs, and AI-flagged violations
 
 **TECHNOLOGY USED**
 1. Computer Vision Algorithms like License plate, load, and type validation
 2. Machine Learning for Violation prediction, peak-hour transport pattern analysis
 3. Automated Report Generation to get Violation summary reports, heatmaps
 4. Data Integration Linked to e-Transport & KOMPAS systems for permit cross-verification
+
+## Future Improvements
+1. Geo fencing Module - We can add **Geo Fencing module** to prevent Illegal trucks to bypass routes 
+2. Can be scalable into nationwide
+3. Citizen transparancy portal
+4. Training and awarness programs for officers
+5. Enable statewide alert network
+6. Add cross department integration (MVD + Mining + Police)
